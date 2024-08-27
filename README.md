@@ -1,5 +1,8 @@
 BEM VINDO(a) AO MEU REPOSITÓRIO👋
 -
+
+*Me chamo Andrey Kauan
+
 *Sou estudante do colégio Dirce de Aguiar Maia
 
 *Moro em Maringá/PR
