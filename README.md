@@ -14,4 +14,5 @@ BEM VINDO(a) AO MEU REPOSITÓRIO👋
 BEM ISSO É UM POUCO DE MIM
 -
 
-![gif](https://github.com/user-attachments/assets/b31a2167-23a3-40cb-8213-cd38bad87b44)
+![image](https://github.com/user-attachments/assets/148907d8-2a66-4c14-897d-f5ad2f9eee0d)
+
